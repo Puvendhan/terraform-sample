@@ -1,0 +1,7 @@
+ami_id = "ami-067d1e60475437da2"
+instancetype = "t2.micro"
+webinstancetype = "t2.micro"
+keyname = "test-terraform"
+instancecount = "1"
+new_bucket_name = "new-bucket-780980809890"
+demo_bucket_name = "demo-bucket-980809890"
