@@ -12,10 +12,10 @@ resource "aws_s3_bucket" "test-bucket" {
 
 resource "aws_s3_bucket" "demo-bucket" {
 	
- bucket = "demo-bucket-980809890"
+ bucket = "sample-bucket-080980"
 
   tags = {
-    Name        = "demo-bucket-980809890"
+    Name        = "sample-bucket-980809890"
     Environment = "Dev"
     Type = "terraform-deployment"
   }
